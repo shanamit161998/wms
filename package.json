@@ -1,0 +1,23 @@
+{
+  "name": "wms",
+  "version": "1.0.0",
+  "description": "WMS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanamit161998/wms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanamit161998/wms/issues"
+  },
+  "homepage": "https://github.com/shanamit161998/wms#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
